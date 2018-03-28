@@ -33,6 +33,14 @@
 
 * You may raise an issue to ask a question, the project may also link from the README to a Q&A or chat application for support.
 
+#### **Did you find a security vulnerability?**
+
+* Do not create an issue or pull request
+* Contact opensource@huddle.com providing details of the vulnerability, and any solution or mitigation you may have
+* You will be contacted within two weeks
+* The vulnerability will be resolved and/or communicated as an issue on the project within a further two weeks
+* Fixes will only apply to the latest major version of the project.  Previous versions may be updated at the discretion of the project owner
+
 #### Notes
 
 This document is inspired by:
